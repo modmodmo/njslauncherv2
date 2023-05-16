@@ -1,0 +1,29 @@
+{
+
+    "clientVersionCode": 1,
+
+    "clientSampVersionCode": 1,
+
+    "gameFilesVersionCode": 13,
+
+    "URL_GAME_FILES" : "https://191.96.92.33/game.zip",
+
+    "URL_GAME_FILES_UPD" : "https://191.96.92.33/files_upd.zip",
+
+    "URL_VK": "",
+
+    "URL_DISCORD": "",
+
+    "URL_YOUTUBE": "",
+
+    "URL_FORUM": "",
+
+    "URL_DONATE": "",
+
+    "URL_CLIENT_SAMPAPK": "http://191.96.92.33/client.apk",
+
+    "URL_CLIENT": ""
+
+}
+
+...
